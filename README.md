@@ -2,7 +2,7 @@
 Simple program to call OpenAI Service using Python
 
 
-## Install Open AI Service Library
+## Install OpenAI Service Library
 ```
 pip3 install openai
 ```
