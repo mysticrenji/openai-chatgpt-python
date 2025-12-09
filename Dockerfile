@@ -1,5 +1,5 @@
 # Start with python 3.9 base image
-FROM python:3.14.1-slim
+FROM python:3.14.2-slim
 
 # Set working directory in docker container
 WORKDIR /app
